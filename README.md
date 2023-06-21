@@ -21,7 +21,7 @@ Figure 4 12 MSE of models for year five prediction
 #### Summary
 The RF model outperformed all other models in predicting carbon emissions for the next five years. In addition, the model achieved high accuracy and low error rates, making it suitable for predicting carbon emissions in the future. The results of this study can help develop policies and strategies to reduce carbon emissions and mitigate the effects of climate change. 
  
-Figure 4 13 MSE of models for all-year prediction
+ ![MSE of models for all-year prediction ](MSE%20of%20models%20for%20all-year%20prediction.png)
 It was found that the model's predictions for year one were more accurate than those for year five after examining models that predicted carbon emissions over five years using the R2 score and MSE. This shows the model's predictive performance increases as the forecasted time frames shorten.
  
 ![MSE performance for all year ](MSE%20performance%20for%20all%20year.png)
