@@ -25,4 +25,4 @@ Figure 4 13 MSE of models for all-year prediction
 It was found that the model's predictions for year one were more accurate than those for year five after examining models that predicted carbon emissions over five years using the R2 score and MSE. This shows the model's predictive performance increases as the forecasted time frames shorten.
 Figure 4 14 MSE performance for all year 
  
-Figure 4 15 R2score for all-year prediction
+![R2score for all-year prediction](R2score%20for%20all-year%20prediction.png)
