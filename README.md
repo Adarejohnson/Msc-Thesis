@@ -23,6 +23,7 @@ The RF model outperformed all other models in predicting carbon emissions for th
  
 Figure 4 13 MSE of models for all-year prediction
 It was found that the model's predictions for year one were more accurate than those for year five after examining models that predicted carbon emissions over five years using the R2 score and MSE. This shows the model's predictive performance increases as the forecasted time frames shorten.
-Figure 4 14 MSE performance for all year 
+ 
+![MSE performance for all year ](MSE%20performance%20for%20all%20year.png)
  
 ![R2score for all-year prediction](R2score%20for%20all-year%20prediction.png)
